@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\GitHub\calculator-nguyenquoccuong1996\caculator\caculator\bin\Debug\caculator.exe
+C:\Users\Admin\Documents\GitHub\calculator-nguyenquoccuong1996\caculator\caculator\bin\Debug\caculator.pdb
+C:\Users\Admin\Documents\GitHub\calculator-nguyenquoccuong1996\caculator\caculator\obj\x86\Debug\caculator.Form1.resources
+C:\Users\Admin\Documents\GitHub\calculator-nguyenquoccuong1996\caculator\caculator\obj\x86\Debug\caculator.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\calculator-nguyenquoccuong1996\caculator\caculator\obj\x86\Debug\caculator.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\calculator-nguyenquoccuong1996\caculator\caculator\obj\x86\Debug\caculator.exe
+C:\Users\Admin\Documents\GitHub\calculator-nguyenquoccuong1996\caculator\caculator\obj\x86\Debug\caculator.pdb
+C:\Users\Admin\Documents\GitHub\calculator-nguyenquoccuong1996\caculator\caculator\obj\x86\Debug\caculator.csprojResolveAssemblyReference.cache
